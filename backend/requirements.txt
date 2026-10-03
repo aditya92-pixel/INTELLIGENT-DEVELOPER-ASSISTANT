@@ -1,0 +1,6 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+pydantic==2.6.3
+langchain==0.1.13
+openai==1.14.2
+anthropic==0.21.3
